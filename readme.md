@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script is designed to collect tweets from specified Twitter accounts. It uses the `twscrape` library to interact with Twitter's API and gather tweets from specified users. The script requires a list of Twitter account names and saves the tweets in JSON format.
+This Python script is designed to collect tweets from specified Twitter accounts. It uses the `twscrape` library to interact with Twitte's and gather tweets from specified users. The script requires a list of Twitter account names and saves the tweets in JSON format.
 
 ## Requirements
 
