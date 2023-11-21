@@ -7,14 +7,14 @@ This Python script is designed to collect tweets from specified Twitter accounts
 ## Requirements
 
 - Python 3.6 or higher
-- Dependencies listed in `requirements.txt`
+- Dependencies listed in `requirments.txt`
 
 ## Installation
 
 Clone the repository or download the project files to your local machine. Install the required Python packages:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirments.txt
 ```
 ## Usage
 
